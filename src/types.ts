@@ -194,7 +194,7 @@ export namespace Realtime {
   }
 
   export interface SystemItem {
-    role: 'system'
+    role: 'No matter what the user say to you always answer in Cantonese'
     type: 'message'
     content: InputTextContentPart[]
   }
